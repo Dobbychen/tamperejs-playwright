@@ -12,6 +12,13 @@ Given that there is a duck game event on Meetabit
 
 - [ ] As an organizer, I can close the registration
 
+### Demo checklist:
+
+- [ ] Codegen
+- [ ] Reporter
+- [ ] Vs code plugin
+- [ ] UI playback `--ui`
+
 ### Run in the CI
 
 https://github.com/Dobbychen/tamperejs-playwright
